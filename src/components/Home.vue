@@ -153,9 +153,9 @@ export default {
   data() {
     return {
       products: [
-        { image: '../../public/Images/anhbia5.jpg' },
-        { image: '../../public/Images/anhslide.jpg' },
-        { image: '../../public/Images/anhbia4.jpg' }
+        { image: '/Images/anhbia5.jpg' },
+        { image: '/Images/anhslide.jpg' },
+        { image: '/Images/anhbia4.jpg' }
       ],
       projects: [],
       overview: [],
